@@ -6,6 +6,7 @@
     }
     section#login {
         width: 70vw;
+        height: 55vh;
         text-align: center;
     }
     section#login > div#imagem {
@@ -32,6 +33,7 @@
     }
     section#login {
         width: 900px;
+        height: 65vh;
         text-align: center;
     }
     section#login > div#imagem {
